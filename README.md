@@ -28,7 +28,9 @@ else:
 ```
 
 Output
-image
+
+![image](https://github.com/user-attachments/assets/ed3c3e11-9827-4ce4-b227-a57c55d08737)
+
 
 Result
 Thus the program has been successfully executed
@@ -74,7 +76,8 @@ print('d:',d)
 ```
 
 Output
-image
+
+![image](https://github.com/user-attachments/assets/2298392d-8d30-452b-a905-4c631d972b4f)
 
 Result
 Thus, the program as been excuted successfully.
@@ -109,7 +112,8 @@ print(b)
 
 Output
 
-image
+![image](https://github.com/user-attachments/assets/60fce170-c2f9-4a3f-af0d-13b0367a32c3)
+
 
 
 
@@ -153,7 +157,8 @@ print(x.imag)
 ```
 Output
 
-image
+![image](https://github.com/user-attachments/assets/a1f841dd-5fda-45fc-856f-eaf8b8e62864)
+
 
 Result
 
@@ -191,7 +196,8 @@ print(men_stepped_on_the_moon)
 
 Output
 
-image
+![image](https://github.com/user-attachments/assets/4808844f-fcdd-4eaf-85df-5e94575cccbd)
+
 
 Result
 Thus the program is executed successfully
